@@ -3,22 +3,39 @@
         		margin-left: auto;
 			margin-right: auto;
 			margin-top: 20px;
-        		border: 1px solid blue;
 			}
 
-h1 { background: #000080;
+.pageheader { background: #001763;
 	color: white;
-	font-family: "Times New Roman";
+	font-family: Sans-Serif;
 	padding-top: 15px;
 	padding-bottom: 15px;
-	padding-left: 10px;
+	padding-left: 20px;
 	margin-top: 0px; 
 	}
 
-P { 	font-family: Arial;
-	color: grey;
-	font-weight: 10px;
-	font-size: 40px;
-	
-	
-	]
+#sitedescription { 	font-family: "Times New Roman";
+			color: #B0B2B1;
+		font-weight: 10px;
+		font-size: 40px;
+	}
+
+.listintro {	font-family: Arial;
+				font-weight: 600;
+				margin-bottom: 0;
+}
+
+hr {	color: #A4A4A4;
+		background-color: #A4A4A4;
+		height: 3px;
+		margin: 0;
+}
+
+.listbox { 	padding: 20px;
+			border: 1px solid blue;
+
+}
+
+.horizontal li {	display: inline;
+					list-style-type: none;
+}
