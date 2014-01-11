@@ -8,16 +8,17 @@
 .pageheader { background: #001763;
 	color: white;
 	font-family: Sans-Serif;
-	padding-top: 15px;
-	padding-bottom: 15px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 	padding-left: 20px;
 	margin-top: 0px; 
 	}
 
-#sitedescription { 	font-family: "Times New Roman";
+#sitedescription { 	font-family: Arial;
 			color: #B0B2B1;
-		font-weight: 10px;
-		font-size: 40px;
+		font-weight: bold;
+		font-size: 1.5em;
+		font
 	}
 
 .listintro {	font-family: Arial;
